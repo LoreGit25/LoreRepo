@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "ca1302db00843c86",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c563fa60203e8fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dadb29f3cd35e9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "cd046cdbe5d2ea2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "150273be3d622d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "落地实践/工作-AIGC内容创作者/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ee234f1f748b238",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf9cfa08e60011d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50b30d65e13ef7b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "cd92fa06889ae536",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1ae6174815315f85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80740e6e585e6a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef70c18ea278a51a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8137f5d685d450",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "dd10517548876bd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "5302f2815a909f2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "02bc2313850ce6eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "dadb29f3cd35e9d1",
+  "lastOpenFiles": [
+    "插图/LoreAI知识库.jpg",
+    "插图",
+    "落地实践/direction2(LLM-jobs)/简历与面试准备/技术面试准备.md",
+    "落地实践/direction2(LLM-jobs)/简历与面试准备/简历撰写.md",
+    "落地实践/direction2(LLM-jobs)/简历与面试准备/系统设计.md",
+    "落地实践/direction2(LLM-jobs)/经验成果与项目/顶会论文经验.md",
+    "落地实践/direction2(LLM-jobs)/经验成果与项目/开源项目经验.md",
+    "落地实践/direction2(LLM-jobs)/核心技能要求/模型训练与优化.md",
+    "落地实践/direction2(LLM-jobs)/核心技能要求/Agent与多模态.md",
+    "落地实践/direction2(LLM-jobs)/核心技能要求/基础能力.md",
+    "落地实践/direction2(LLM-jobs)/岗位类型与行业/ResearchScientist.md",
+    "落地实践/direction2(LLM-jobs)/岗位类型与行业/LLMEngineer.md",
+    "落地实践/direction2(LLM-jobs)/资源推荐.md",
+    "落地实践/direction2(LLM-jobs)/职业路径与发展.md",
+    "落地实践/direction2(LLM-jobs)/经验成果与项目.md",
+    "落地实践/direction2(LLM-jobs)/经验成果与项目",
+    "落地实践/direction2(LLM-jobs)/简历与面试准备.md",
+    "落地实践/direction2(LLM-jobs)/简历与面试准备",
+    "落地实践/direction2(LLM-jobs)/核心技能要求.md",
+    "落地实践/direction2(LLM-jobs)/核心技能要求",
+    "落地实践/direction2(LLM-jobs)/岗位类型与行业",
+    "落地实践/direction2(LLM-jobs)/岗位类型与行业.md",
+    "落地实践/direction2(LLM-jobs)/README.md",
+    "落地实践/direction2(LLM-jobs)",
+    "落地实践/工作-AIGC内容创作者/README.md",
+    "README.md",
+    "落地实践/README.md",
+    "知识信息认知/认知.md",
+    "知识信息认知/信息.md",
+    "知识信息认知/README.md",
+    "落地实践/工作-大模型工程师+科学家/经验成果与项目/顶会论文经验.md",
+    "落地实践/工作-大模型工程师+科学家/经验成果与项目/开源项目经验.md",
+    "落地实践/工作-大模型工程师+科学家/经验成果与项目",
+    "落地实践/工作-大模型工程师+科学家/简历与面试准备",
+    "落地实践/工作-大模型工程师+科学家/核心技能要求",
+    "落地实践/工作-大模型工程师+科学家/岗位类型与行业"
+  ]
+}
